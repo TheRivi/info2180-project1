@@ -20,10 +20,7 @@ nav ul a{
     font-size: 24px;
     color: #48BB78;
 }
-.testing{
-    background-color: #4A5568;
-    color: white;
-}
+
 .testing a{
     background-color: #48BB78;
     border-radius: 5px;
@@ -36,10 +33,11 @@ nav ul a{
     max-width: 960px;
     width: 100%;
 }
-
-
-
-
+.stories img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
 
 
 
